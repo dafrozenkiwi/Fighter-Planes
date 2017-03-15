@@ -1,3 +1,2 @@
 # Fighter-Planes
-First game in Lua </n>
-Requires the love2d engine
+First game in Lua, requires love2d engine
